@@ -2,7 +2,6 @@
 
 > A cinematic, story-driven developer portfolio designed to turn a personal portfolio into an interactive digital experience.
 
-![Portfolio Preview](./public/preview.png)
 
 ## Overview
 
